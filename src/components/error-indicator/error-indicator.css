@@ -1,0 +1,9 @@
+.error-indicator{
+  color: yellow;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  margin-top: 10vh;
+  text-align:  center;
+  height: 30vh;
+}
